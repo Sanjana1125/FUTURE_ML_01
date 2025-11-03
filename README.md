@@ -1,6 +1,6 @@
 # FUTURE_ML_01 - AI Powered Sales Forecasting System
 
-## 🎯 Projecy Overview
+## 🎯 Project Overview
 This project delivers an end-to-end workflow for monthly retail sales forecasting and dashboarding.
 It uses Python (Prophet) for time series modeling and Power BI for interactive visualizations, enabling actionable insights for business decisions.
 
