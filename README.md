@@ -13,8 +13,8 @@ It uses Python (Prophet) for time series modeling and Power BI for interactive v
 - Monthly and yearly comparison charts
 
 ## Data Source: 
--Sample Superstore/retail sales CSV (columns used: Order Date, Sales, [Category/Region/Store, ...])
--After cleaning: aggregated as monthly sales for model building and dashboarding
+- Sample Superstore/retail sales CSV (columns used: Order Date, Sales, etc)
+- After cleaning: aggregated as monthly sales for model building and dashboarding
 
 ## Workflow
 1. Python Data Preparation
